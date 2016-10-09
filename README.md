@@ -10,8 +10,8 @@
 # Screenshots Program
  ![Screenshot 1](https://docs.google.com/uc?id=0B09XALl5QufvTWthWV9sYWk0Nms)
  ![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvR0Z0M1l0TUlCS1k)
- ![Screenshot 3]()
- ![Screenshot 4]()
+ ![Screenshot 3](https://docs.google.com/uc?id=0B09XALl5QufvUjR2NExVYXBiN2c)
+ ![Screenshot 4](https://docs.google.com/uc?id=0B09XALl5QufvSW1oYnN0YWFPUjg)
 # Link Aplikasi
 https://docs.google.com/uc?id=0B09XALl5QufveUdoX0FadGtWcEk
  
